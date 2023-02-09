@@ -1,0 +1,11 @@
+> db.getName()
+test
+> db.test.save( {name: "test parameter"} )
+WriteResult({ "nInserted" : 1 })
+> db.test.find()
+{ "_id" : ObjectId("63e4ceea4615f1df3a839767"), "name" : "test parameter" }
+> db.mycollection.save( {name: "Ilya Artemov", age: 21} )
+WriteResult({ "nInserted" : 1 })
+> db.mycollection.find()
+{ "_id" : ObjectId("63e4cf8d4615f1df3a839768"), "name" : "Ilya Artemov", "age" : 21 }
+>
