@@ -1,0 +1,11 @@
+{
+	_id: ObjectId("1"),
+	"Name": "Ilia Artemov",
+	"Date of birth": "17.09.2001",
+	"Loyalty program": "Silver"
+	"Bonuses": 184
+}
+{
+	_id: ObjectId("2"),
+	"Name": "John Threeampers"
+}	

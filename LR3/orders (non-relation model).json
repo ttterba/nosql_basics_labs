@@ -1,0 +1,46 @@
+{
+	"Customer": {
+				"Name": "Ilia Artemov",
+				"Date of birth": "17.09.2001",
+				"Loyalty program": "Silver"
+				"Bonuses": 184,
+				}
+	"Product": {
+				"Name": "Video Editor",
+				"OS": "Windows, Linux, macOS",
+				"Version": "3.0",
+				"Price": 1890,
+				"Subscribe period": "1 month"
+				},
+	"Date": "04.03.2023",
+	"Amount": 1
+}
+{
+	"Customer": {
+				"Name": "Ilia Artemov",
+				"Date of birth": "17.09.2001",
+				"Loyalty program": "Silver"
+				"Bonuses": 184,
+				}
+	"Product": {
+				"Name": "Sharp IDE",
+				"OS": "macOS",
+				"Version": "2.1",
+				"Price": 940
+				},
+	"Date": "04.03.2023",
+	"Amount": 2
+}
+{
+	"Customer": {
+				"Name": "John Threeampers",
+				},
+	"Product": {
+				"Name": "Free Office Pack",
+				"OS": "Windows, Linux",
+				"Version": "1.23.3",
+				"Price": 560
+				},
+	"Date": "04.03.2023",
+	"Amount": 1
+}		

@@ -1,0 +1,22 @@
+{
+	_id: ObjectId("1"),
+	"Name": "Free Office Pack",
+	"OS": "Windows, Linux",
+	"Version": "1.23.3",
+	"Price": 560
+}
+{
+	_id: ObjectId("2"),
+	"Name": "Video Editor",
+	"OS": "Windows, Linux, macOS",
+	"Version": "3.0",
+	"Price": 1890,
+	"Subscribe period": "1 month"
+}
+{
+	_id: ObjectId("3"),
+	"Name": "Sharp IDE",
+	"OS": "macOS",
+	"Version": "2.1",
+	"Price": 940
+}

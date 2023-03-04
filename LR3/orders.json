@@ -1,0 +1,18 @@
+{
+	"Customer Id": "1",
+	"Product id": "2",
+	"Date": "04.03.2023",
+	"Amount": 1
+}
+{
+	"Customer Id": "1",
+	"Product id": "3",
+	"Date": "04.03.2023",
+	"Amount": 2
+}
+{
+	"Customer Id": "2",
+	"Product id": "1",
+	"Date": "04.03.2023",
+	"Amount": 1
+}			
